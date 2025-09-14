@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: medical_chatbot
+Version: 0.1.0
+Summary: Medical chatbot project
+Author: chandra
+Author-email: chandraburadkar@gmail.com
+Requires-Python: >=3.9
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
